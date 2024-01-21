@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mehedi Hasan Nasim</h1>
+<!--<h1 align="center">Hi 👋, I'm Mehedi Hasan Nasim</h1>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Hi+there+%F0%9F%91%8B;I'm+Mehedi+Hasan+Nasim+%F0%9F%98%8E;Hope+you're+doing+well+%F0%9F%A5%B3)](https://git.io/typing-svg)
 <h3 align="center">A passionate Programmer & Backend developer</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/mehedi-hasan-nasim/**
